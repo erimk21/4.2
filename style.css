@@ -1,0 +1,41 @@
+
+h1 { 
+    color: rgb(254, 254, 254); font-size: 24px; font-weight: bold;
+}
+h2 { 
+    color: #0000ff; font-size: 20px; font-weight: bold;
+}
+h3 { 
+    color: teal; font-size: 16px; font-weight: bold;
+}
+p1 { 
+     font-weight: bold; color: antiquewhite;
+}
+p {
+    color: #4D4D4D;
+}
+a {
+    color: #8A2BE2; text-decoration: none;
+}
+
+header {
+    background-image: url(./img/background4.2.jpg);
+}
+header {
+    background-repeat: no-repeat; background-position: center;
+}
+article {
+
+    border-radius: 25px;
+
+  border: 2px solid #000000;
+}
+
+article {
+    border-width: 20px;
+    }
+article {
+   background-size: 40em; 
+}
+img{ width: 50%;
+}
